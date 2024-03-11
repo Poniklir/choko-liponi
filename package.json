@@ -1,0 +1,23 @@
+{
+  "name": "choko-liponi",
+  "version": "1.0.0",
+  "description": "choko-liponi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Poniklir/choko-liponi.git"
+  },
+  "dependencies": {
+    "bulba-kript": "1.0.0",
+    "noiber-polik": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poniklir/choko-liponi/issues"
+  },
+  "homepage": "https://github.com/Poniklir/choko-liponi#readme"
+}
